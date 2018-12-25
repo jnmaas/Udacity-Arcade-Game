@@ -3,8 +3,8 @@ This project has been submitted by Joep Maas as part of the Front-End Developmen
 
 ## Table of Contents
 
-- [Getting Started](#getting)
-- [Game Instructions](#game instructions)
+- [Getting-started](#getting-started)
+- [Game-instructions](#game-instructions)
 - [Contributing](#contributing)
 - [Licensing](#licensing)
 
